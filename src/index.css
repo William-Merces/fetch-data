@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 button{
-  @apply w-32 border shadow-md rounded-md;
+  @apply w-32 h-10 bg-sky-500 text-white
 }
 
 h1 {
